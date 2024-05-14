@@ -194,6 +194,7 @@ a:focus {
     }
 
     .navbar .navbar-brand {
+
         color: #ffffff;
     }
 
@@ -232,6 +233,7 @@ a:focus {
     }
 
     .navbar .navbar-brand {
+        font-size: 20px;
         color: #0b60b0;
     }
 
@@ -377,6 +379,11 @@ a:focus {
     .hero {
         padding-top: 60px;
         padding-bottom: 60px;
+    }
+
+    .hero .hero-content {
+        position: relative;
+        padding-left: 0px;
     }
 
     .hero,
