@@ -576,6 +576,12 @@ a:focus {
     }
 }
 
+@media (max-width: 600px) {
+    .about .about-img {
+        padding-top: 40px;
+    }
+}
+
 
 /*******************************/
 /******* Experience CSS ********/
