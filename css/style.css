@@ -4,7 +4,7 @@
 body {
     color: #797979;
     background: #ffffff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 h1,
@@ -158,7 +158,7 @@ a:focus {
 
 .navbar .navbar-brand {
     margin: 0;
-    font-size: 35px;
+    font-size: 26px;
     line-height: 0px;
     font-weight: 700;
     letter-spacing: 2px;
@@ -258,7 +258,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(11, 96, 176, 1), rgba(11, 96, 176, .95)), url(../img/hero-bg.jpg);
+    background: linear-gradient(rgba(11, 96, 176, 1), rgba(11, 96, 176, .80)), url(../img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1332,7 +1332,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-    background: url(../img/contact.jpg) left center no-repeat;
+    background: url(../img/contact.webp) left center no-repeat;
     background-size: contain;
 }
 
@@ -1502,14 +1502,14 @@ a:focus {
 
 .footer .footer-info h2 {
     margin-bottom: 20px;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 700;
     color: #ffffff;
 }
 
 .footer .footer-info h3 {
     margin-bottom: 25px;
-    font-size: 22px;
+    font-size: 16px;
     font-weight: 600;
     color: #ffffff;
 }
@@ -1522,7 +1522,7 @@ a:focus {
 
 .footer .footer-menu p {
     color: #ffffff;
-    font-size: 22px;
+    font-size: 16px;
     font-weight: 600;
     line-height: 20px;
     padding: 0 15px;
