@@ -1603,17 +1603,17 @@ a:focus {
 @media (max-width: 575.98px) {
     .footer .footer-info h2 {
         margin-bottom: 20px;
-        font-size: 20px;
+        font-size: 16px;
         font-weight: 600;
     }
 
     .footer .footer-info h3 {
         margin-bottom: 20px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .footer .footer-menu p {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 16px;
         padding: 0 5px;
     }
